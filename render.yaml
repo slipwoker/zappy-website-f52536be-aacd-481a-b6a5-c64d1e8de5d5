@@ -1,0 +1,29 @@
+# Render static site routing configuration
+# Generated: 2026-06-02T06:30:18.685Z
+# This file configures URL rewrite rules for SPA routing
+
+# Routes are applied when no static file exists at the requested path
+# More specific routes should be listed before catch-all routes
+
+routes:
+  - type: rewrite
+    source: /courses
+    destination: /courses/index.html
+  - type: rewrite
+    source: /courses/
+    destination: /courses/index.html
+  - type: rewrite
+    source: /my-learning
+    destination: /my-learning.html
+  - type: rewrite
+    source: /category/*
+    destination: /category.html
+  - type: rewrite
+    source: /courses/*
+    destination: /course-detail.html
+  - type: rewrite
+    source: /lesson/*
+    destination: /lesson.html
+  - type: rewrite
+    source: /certificate/*
+    destination: /certificate.html

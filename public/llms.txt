@@ -1,0 +1,122 @@
+# קרן סלע — Generative Engine Optimization Map
+
+> Keren Sela is an online course platform focused on delivering digital courses. The brand centers around education and digital learning, with Keren Sela as the instructor or business owner behind the courses.
+
+---
+
+## Pages
+
+### בית
+https://-f52536be.zappy5.app
+גלה את עולם הלמידה הדיגיטלית עם קרן סלע! תוכניות חינוך מקוון מובילות שיעצימו אותך ויפתחו דלתות חדשות. הצטרף עכשיו ושנה את העתיד שלך!
+
+### חוויית למידה
+https://-f52536be.zappy5.app/learning-experience
+חוויית הלמידה של קרן סלע מעצבת מחדש את עולם החינוך המקוון. קורסים אינטראקטיביים, תוכן עשיר ותמיכה אישית לכל לומד. גלה כיצד ללמוד נכון ולהשיג תוצאות אמיתיות!
+
+### אודות קרן
+https://-f52536be.zappy5.app/about
+קרן סלע היא מובילת חינוך דיגיטלי עם ניסיון עשיר בפיתוח תוכניות לימוד מקוונות לגיל הרך וחינוך מיוחד. גלה את הסיפור, הערכים והמשימה שמניעים כל קורס. הצטרף למהפכת הלמידה!
+
+### צור קשר
+https://-f52536be.zappy5.app/contact
+יש לך שאלות על תוכניות החינוך המקוון של קרן סלע? צור קשר עכשיו וקבל מענה אישי מהיר. אנחנו כאן כדי לעזור לך לבחור את הקורס המושלם ולהתחיל ללמוד היום!
+
+### Cart
+https://-f52536be.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-f52536be.zappy5.app/checkout
+תשלום
+
+### Login
+https://-f52536be.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-f52536be.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-f52536be.zappy5.app/order-success
+תודה שנרשמת לקורס
+
+### Courses
+https://-f52536be.zappy5.app/courses
+Browse all available courses.
+
+### Course Category
+https://-f52536be.zappy5.app/category/:slug
+Browse courses in this category.
+
+### Course Detail
+https://-f52536be.zappy5.app/courses/:slug
+Course details and curriculum.
+
+### Lesson
+https://-f52536be.zappy5.app/lesson/:lessonId
+Lesson player.
+
+### My Learning
+https://-f52536be.zappy5.app/my-learning
+Your enrolled courses and progress.
+
+### Certificate
+https://-f52536be.zappy5.app/certificate/:code
+Verify a course completion certificate.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-f52536be.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-f52536be.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-f52536be.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-f52536be.zappy5.app/contact
+- Endpoint: https://-f52536be.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About קרן סלע
+Keren Sela is an online course platform focused on delivering digital courses. The brand centers around education and digital learning, with Keren Sela as the instructor or business owner behind the courses.
+
+## Target Audience
+- יזמים דיגיטליים
+- מקצוענים המחפשים שדרוג מיומנויות
+- סטודנטים המחפשים קורסים מקוונים
+
+## Industry
+Online Education
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-f52536be.zappy5.app/sitemap.xml
+- Robots: https://-f52536be.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-f52536be.zappy5.app/llms-full.txt
